@@ -1,6 +1,6 @@
 # Wrapper: Online - Reborn Assets
 
-This the asset repository for "Wrapper: Online - Reborn". There's nothing really special here, go to [the site](https://wrapper.online) to use it.
+This the asset repository for "Wrapper: Online - Reborn". There's nothing really special here, go to [the site](https://wrapper.online) to use Wrapper.
 
 # Adding Modded Assets or Custom Assets
 
